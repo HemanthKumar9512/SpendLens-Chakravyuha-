@@ -1,0 +1,1 @@
+grant execute on function public.current_tenant_id() to authenticated;
